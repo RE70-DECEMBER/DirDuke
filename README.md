@@ -20,7 +20,7 @@ go build
 
 ## Usage
 ```bash
-DirDuke -u http://0.0.0.0 -w directory-list-2.3-medium.txt
+./DirDuke -u http://0.0.0.0 -w directory-list-2.3-medium.txt
 ```
 
 ## Flags
