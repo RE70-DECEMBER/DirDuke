@@ -44,7 +44,7 @@ func main() {
 		line := scanner.Text()
 		word := strings.TrimSpace(line)
 
-		if word == "" || strings.HasPrefix("#", word) {
+		if word == "" || strings.HasPrefix(word, "#") {
 			continue
 		}
 
