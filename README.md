@@ -17,6 +17,9 @@ sudo apt-get install golang
 go build
 ```
 
+```bash
+sudo python3 setup.py
+```
 
 ## Usage
 ```bash
